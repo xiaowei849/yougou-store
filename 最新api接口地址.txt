@@ -1,0 +1,2 @@
+把文档中的https://api.zbztb.cn已失效
+换成https://api-hmugo-web.itheima.net
